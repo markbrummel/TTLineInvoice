@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTTLine1", "TestTTLine1\TestTTLine1.csproj", "{DC798068-91DE-423E-8111-C2CF74A1BFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC798068-91DE-423E-8111-C2CF74A1BFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC798068-91DE-423E-8111-C2CF74A1BFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC798068-91DE-423E-8111-C2CF74A1BFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC798068-91DE-423E-8111-C2CF74A1BFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49FD293A-FA05-4B9C-81EC-7F0561B87A78}
+	EndGlobalSection
+EndGlobal

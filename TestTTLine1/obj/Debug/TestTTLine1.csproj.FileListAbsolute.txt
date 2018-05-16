@@ -1,0 +1,6 @@
+C:\Users\markb\Documents\Visual Studio 2017\Projects\TestTTLine1\TestTTLine1\bin\Debug\TestTTLine1.dll
+C:\Users\markb\Documents\Visual Studio 2017\Projects\TestTTLine1\TestTTLine1\bin\Debug\TestTTLine1.pdb
+C:\Users\markb\Documents\Visual Studio 2017\Projects\TestTTLine1\TestTTLine1\obj\Debug\TestTTLine1.csprojResolveAssemblyReference.cache
+C:\Users\markb\Documents\Visual Studio 2017\Projects\TestTTLine1\TestTTLine1\obj\Debug\TestTTLine1.csproj.CoreCompileInputs.cache
+C:\Users\markb\Documents\Visual Studio 2017\Projects\TestTTLine1\TestTTLine1\obj\Debug\TestTTLine1.dll
+C:\Users\markb\Documents\Visual Studio 2017\Projects\TestTTLine1\TestTTLine1\obj\Debug\TestTTLine1.pdb
